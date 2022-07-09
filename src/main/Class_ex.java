@@ -1,3 +1,4 @@
+package main;
 
 class Vehicle1 {
 	int passengers;

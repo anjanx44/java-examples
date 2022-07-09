@@ -1,4 +1,4 @@
-package inner_class.sifur;
+package sifur;
 
 public class AjobBox
 {
